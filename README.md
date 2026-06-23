@@ -160,19 +160,32 @@ http://localhost:3000
 
 # 📸 Screenshots
 
-> Screenshots will be added soon.
+## 🏠 Home Page
+![Home Page](screenshots/home.png)
+---
 
-Suggested screenshots:
+## 🔐 Login Page
+![Login](screenshots/login.png)
+---
 
-* Home Page
-* Login Page
-* Signup Page
-* College Details
-* Compare Colleges
-* Admission Predictor
-* Discussion Forum
-* Saved Colleges
+## 📝 Signup Page
+![Signup](screenshots/signup.png)
+---
 
+## 🏫 College Details
+![College Details](screenshots/details.png)
+---
+
+## 📊 Compare Colleges
+![Compare](screenshots/compare.png)
+---
+
+## 🎯 Admission Predictor
+![Predictor](screenshots/predictor.png)
+---
+
+## 💬 Discussion Forum
+![Discussion](screenshots/discussion.png)
 ---
 
 # 🔒 Authentication
